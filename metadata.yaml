@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37820'
     url: http://www.gutenberg.org/2009/agents/37820
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35669#The-Falls-of-Niagara-and-Other-Famous-Cataracts
 gutenberg_issued: '2011-03-24'
 gutenberg_type: Text
 identifiers:
