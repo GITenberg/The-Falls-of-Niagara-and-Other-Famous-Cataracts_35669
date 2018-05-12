@@ -1,0 +1,29 @@
+_repo: The-Falls-of-Niagara-and-Other-Famous-Cataracts_35669
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holley, George W. (George Washington)
+    alias: Holley, G. W. (George Washington)
+    birthdate: 1810
+    deathdate: 1897
+    gutenberg_agent_id: '37820'
+    url: http://www.gutenberg.org/2009/agents/37820
+description: ''
+gutenberg_issued: '2011-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35669'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Niagara Falls (N.Y. and Ont.) -- Description and Travel'
+- !lcc 'F106'
+- !lcsh 'Waterfalls'
+- !lcsh 'Niagara River (N.Y. and Ont.) -- History'
+title: The Falls of Niagara and Other Famous Cataracts
+url: http://www.gutenberg.org/ebooks/35669
